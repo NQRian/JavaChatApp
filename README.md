@@ -58,5 +58,4 @@ if (drawer.isShow()) {
 }
 ```
 ### Screenshot
-![2023-07-06_232302](<img width="820" alt="image" src="https://github.com/user-attachments/assets/191c6ab9-bc29-4801-bd6e-8dbce1b29902">
-)
+![2023-07-06_232302](https://github.com/user-attachments/assets/191c6ab9-bc29-4801-bd6e-8dbce1b29902)
